@@ -1,0 +1,5 @@
+.animation1 {-webkit-transition-duration: 500ms !important;-moz-transition-duration: 500ms !important;-o-transition-duration: 500ms !important;transition-duration: 500ms !important;}
+.item-product .product-thumbnail .first-image { height: 256px; object-fit: cover; }
+#pos_search_top .form_search.show-categories .form-control {
+    padding-left: 20px;
+}
